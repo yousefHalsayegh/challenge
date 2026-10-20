@@ -1,0 +1,161 @@
+{
+  "version": "0.2.0",
+  "mode": "local",
+  "messages": 21954,
+  "analysis_end": "2026-07-24",
+  "eligible_messages": 19854,
+  "selected_messages": 96,
+  "reviewed_message_ids": [
+    "019f226b-f018-7352-8392-34d28d45837d",
+    "019f237c-6a00-7a82-a102-178b0ab6b79f",
+    "019f23d4-b6e3-7230-b087-3e23a08fac28",
+    "019f2516-1cd0-73fc-b089-436e2f19be25",
+    "019f25a5-c240-785d-acaa-a85110235506",
+    "019f2693-d1a8-77b8-be0b-8939669f1a88"
+  ],
+  "warnings": [],
+  "events": [
+    {
+      "date": "2026-06-01",
+      "version": "1.9",
+      "notes": "数据起始 / start of data"
+    },
+    {
+      "date": "2026-07-01",
+      "version": "-",
+      "notes": "周年庆活动开启 / anniversary event starts"
+    },
+    {
+      "date": "2026-07-21",
+      "version": "2.0",
+      "notes": "新角色「赛琳娜」上线；新限定池 / new character Selena, new limited banner"
+    }
+  ],
+  "interpretations": [
+    {
+      "voice_id": "019f226b-f018-7352-8392-34d28d45837d",
+      "literal_en": "New player asking, the arena environment is too monotonous, PVP balance is terrible... is Mia's passive ineffective against front-line units? The skill description is unclear. @Hikari: +1",
+      "meaning_en": "A new player expresses frustration about the repetitive and unbalanced PVP environment, specifically questioning whether Mia's passive skill has no effect on frontline units due to unclear skill descriptions, and cites support from another user",
+      "feeling": "critical/annoyed",
+      "concerns": [
+        {
+          "id": "019f226b-f018-7352-8392-34d28d45837d:0",
+          "voice_id": "019f226b-f018-7352-8392-34d28d45837d",
+          "target": "game developers",
+          "issue_zh": "米娅的被动是否对前台单位无效",
+          "issue_en": "Is Mia's passive ineffective against frontline units?",
+          "category": "game mechanics",
+          "position": "unclear",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "quotation",
+          "quote": "米娅的被动是不是对前台无效？",
+          "context_ids": [
+            "019f16ac-4728-79b8-8252-b4af5d639f6d"
+          ]
+        },
+        {
+          "id": "019f226b-f018-7352-8392-34d28d45837d:1",
+          "voice_id": "019f226b-f018-7352-8392-34d28d45837d",
+          "target": "game developers",
+          "issue_zh": "PVP平衡做得一塌糊涂",
+          "issue_en": "PVP balance is terribly done",
+          "category": "game balance",
+          "position": "opposes",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "quotation",
+          "quote": "竞技场环境好单一啊 PVP平衡做得一塌糊涂",
+          "context_ids": [
+            "019f16ac-4728-79b8-8252-b4af5d639f6d"
+          ]
+        }
+      ]
+    },
+    {
+      "voice_id": "019f237c-6a00-7a82-a102-178b0ab6b79f",
+      "literal_en": "I've saved 8000 star crystals, should I pull for Cardon or Locke in the next pool? Anyone know if the guaranteed drop from constant pools is inherited?",
+      "meaning_en": "A player is deciding between pulling for Cardon or Locke from the next pool, and is asking whether the guaranteed drop from constant pools is carried over",
+      "feeling": "neutral/inquisitive",
+      "concerns": [
+        {
+          "id": "019f237c-6a00-7a82-a102-178b0ab6b79f:0",
+          "voice_id": "019f237c-6a00-7a82-a102-178b0ab6b79f",
+          "target": "game developers",
+          "issue_zh": "常驻池的保底是否继承",
+          "issue_en": "Is the guaranteed drop from constant pools inherited?",
+          "category": "game mechanics",
+          "position": "unclear",
+          "stance": "neutral",
+          "style": "literal",
+          "evidence_type": "quotation",
+          "quote": "常驻池的保底是继承的吗",
+          "context_ids": []
+        }
+      ]
+    },
+    {
+      "voice_id": "019f23d4-b6e3-7230-b087-3e23a08fac28",
+      "literal_en": "@Ababa not really, right? 👍🏿",
+      "meaning_en": "Expressing disbelief and mild sarcasm at the claim that the game has become excessively pay-to-win, implying it's unreasonable or exaggerated.",
+      "feeling": "skeptical/sarcastic",
+      "concerns": []
+    },
+    {
+      "voice_id": "019f2516-1cd0-73fc-b089-436e2f19be25",
+      "literal_en": "Can't take it anymore, match time is too long, waiting five minutes",
+      "meaning_en": "Complaining about excessively long matchmaking times, indicating frustration with game performance or server issues.",
+      "feeling": "frustrated",
+      "concerns": [
+        {
+          "id": "019f2516-1cd0-73fc-b089-436e2f19be25:0",
+          "voice_id": "019f2516-1cd0-73fc-b089-436e2f19be25",
+          "target": "game matchmaking time",
+          "issue_zh": "匹配时间过长",
+          "issue_en": "matchmaking time is too long",
+          "category": "performance",
+          "position": "opposes",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "firsthand",
+          "quote": "匹配时间太长了，等五分钟",
+          "context_ids": [
+            "019efce8-c5f0-790f-ab2b-de17e5b7fbab"
+          ]
+        }
+      ]
+    },
+    {
+      "voice_id": "019f25a5-c240-785d-acaa-a85110235506",
+      "literal_en": "I'm not going to do it anymore, Arknights! Start!",
+      "meaning_en": "The user expresses a sudden shift in interest, abandoning a previous activity and announcing the start of a new one related to Arknights.",
+      "feeling": "energetic, enthusiastic",
+      "concerns": []
+    },
+    {
+      "voice_id": "019f2693-d1a8-77b8-be0b-8939669f1a88",
+      "literal_en": "Yes",
+      "meaning_en": "The user agrees with a prior comment about PVP balance issues, specifically mentioning low damage for Eileen and a request for team composition ideas for White Night.",
+      "feeling": "supportive, constructive",
+      "concerns": [
+        {
+          "id": "019f2693-d1a8-77b8-be0b-8939669f1a88:0",
+          "voice_id": "019f2693-d1a8-77b8-be0b-8939669f1a88",
+          "target": "PVP balance",
+          "issue_zh": "PVP平衡做得一塌糊涂",
+          "issue_en": "PVP balance is extremely poor",
+          "category": "game mechanics",
+          "position": "opposes",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "agreement",
+          "quote": "PVP平衡做得一塌糊涂\n艾琳伤害有点低，希望加强！求白夜的配队思路。。。👍",
+          "context_ids": [
+            "019f2684-7210-7e54-a3d9-073ae9a419e2"
+          ]
+        }
+      ]
+    }
+  ],
+  "topics": []
+}

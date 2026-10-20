@@ -1,0 +1,103 @@
+{
+  "version": "0.2.0",
+  "mode": "local",
+  "messages": 21954,
+  "analysis_end": "2026-07-24",
+  "eligible_messages": 19854,
+  "selected_messages": 8,
+  "reviewed_message_ids": [
+    "019f3a60-1050-730f-b3ed-f8db212547e1",
+    "019f3c01-48e8-7b7f-b24e-b063b23ec539",
+    "019f8302-d220-7891-91b9-acccbc4adf62",
+    "019f8430-3278-7177-bb54-a6b4b5e24100",
+    "019f8523-3568-71cf-ba71-1b120bef6faa"
+  ],
+  "warnings": [],
+  "events": [
+    {
+      "date": "2026-06-01",
+      "version": "1.9",
+      "notes": "数据起始 / start of data"
+    },
+    {
+      "date": "2026-07-01",
+      "version": "-",
+      "notes": "周年庆活动开启 / anniversary event starts"
+    },
+    {
+      "date": "2026-07-21",
+      "version": "2.0",
+      "notes": "新角色「赛琳娜」上线；新限定池 / new character Selena, new limited banner"
+    }
+  ],
+  "interpretations": [
+    {
+      "voice_id": "019f3a60-1050-730f-b3ed-f8db212547e1",
+      "literal_en": "Ask, map loading takes so long!!",
+      "meaning_en": "The user is expressing frustration about the slow loading time when entering a map.",
+      "feeling": "frustrated",
+      "concerns": []
+    },
+    {
+      "voice_id": "019f3c01-48e8-7b7f-b24e-b063b23ec539",
+      "literal_en": "Early",
+      "meaning_en": "The message is a simple greeting, likely indicating the start of a conversation or event.",
+      "feeling": "neutral",
+      "concerns": []
+    },
+    {
+      "voice_id": "019f8302-d220-7891-91b9-acccbc4adf62",
+      "literal_en": "Making sense, first-charged double reward doesn't reset, understood, it's just asking you to spend money... free players are finding it harder to play now",
+      "meaning_en": "The game's reward system for first charges is designed to encourage spending, making it increasingly difficult for non-spending players to enjoy the game",
+      "feeling": "critical",
+      "concerns": [
+        {
+          "id": "019f8302-d220-7891-91b9-acccbc4adf62:0",
+          "voice_id": "019f8302-d220-7891-91b9-acccbc4adf62",
+          "target": "game design",
+          "issue_zh": "首充双倍不重置导致玩家氪金压力增大",
+          "issue_en": "First-charged double reward not resetting increases player spending pressure",
+          "category": "game mechanics",
+          "position": "opposes",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "agreement",
+          "quote": "讲道理首充双倍又不重置，懂了，就是要你氪……白嫖党表示越来越难玩了",
+          "context_ids": []
+        }
+      ]
+    },
+    {
+      "voice_id": "019f8430-3278-7177-bb54-a6b4b5e24100",
+      "literal_en": "Surprising, the script quality for this event is very high The script quality for this event is very high QAQ",
+      "meaning_en": "The script quality for this event is exceptionally good, expressed with surprise and enthusiasm",
+      "feeling": "positive",
+      "concerns": []
+    },
+    {
+      "voice_id": "019f8523-3568-71cf-ba71-1b120bef6faa",
+      "literal_en": "Star Ring Watch: It's absurd, frame drop during team battle turned into a PowerPoint presentation",
+      "meaning_en": "The game experience during team battles is so bad that it's comparable to a poorly rendered PowerPoint presentation",
+      "feeling": "critical",
+      "concerns": [
+        {
+          "id": "019f8523-3568-71cf-ba71-1b120bef6faa:0",
+          "voice_id": "019f8523-3568-71cf-ba71-1b120bef6faa",
+          "target": "game performance during team battles",
+          "issue_zh": "团战中掉帧严重",
+          "issue_en": "Severe frame drops during team battles",
+          "category": "performance",
+          "position": "opposes",
+          "stance": "critical",
+          "style": "literal",
+          "evidence_type": "quotation",
+          "quote": "团战掉帧掉成PPT了",
+          "context_ids": [
+            "019f6904-4f70-73e3-8c08-6414175e135f"
+          ]
+        }
+      ]
+    }
+  ],
+  "topics": []
+}
